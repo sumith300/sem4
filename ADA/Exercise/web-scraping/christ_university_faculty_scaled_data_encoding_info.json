@@ -1,0 +1,40 @@
+{
+  "label_encoders": {
+    "dept_cleaned": [
+      "MEDIA STUDIES",
+      "PHYSICAL EDUCATION"
+    ],
+    "spec": [
+      "Communication and Journalism",
+      "Conflict Reporting",
+      "Mass Communication",
+      "Media Ethics",
+      "Media and Environment",
+      "Physical Education"
+    ],
+    "title": [
+      "Dr",
+      "Unknown"
+    ]
+  },
+  "numerical_features": [
+    "name_length",
+    "dept_length",
+    "image_id_num",
+    "name_word_count"
+  ],
+  "scaler_stats": {
+    "mean": [
+      17.666666666666668,
+      18.833333333333332,
+      6349.333333333333,
+      3.0
+    ],
+    "scale": [
+      3.9860869143671325,
+      0.3726779962499649,
+      2151.527028776435,
+      0.5773502691896257
+    ]
+  }
+}
